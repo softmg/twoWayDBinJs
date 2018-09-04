@@ -1,0 +1,22 @@
+{
+  "name": "@softmg/twoWayDBinJs",
+  "version": "3.8.1",
+  "description": "2 Way Data Binding in Vanilla JS",
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  },
+  "author": {
+    "name": "fenix007",
+    "email": "support@softmg.ru"
+  },
+  "dependencies": {
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "script-loader": "^0.7.2"
+  }
+}
