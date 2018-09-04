@@ -86,4 +86,4 @@ TwoWayDatabinding.attachEvent(bindClasses);
 * npm run start:dev
 * Перейти по адресу http://localhost:8080 (порт может отличаться)
 
-Ссылка на [jsfiddle](https://jsfiddle.net/64zdm3so/2){:target="_blank"}
+Ссылка на <a href="https://jsfiddle.net/64zdm3so/2" target="_blank">jsfiddle</a>
